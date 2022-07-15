@@ -192,7 +192,7 @@
     {
       "id": "ds3617xs-6.2.4-25556",
       "platform_name": "DS3617xs",
-      "platform_version": "broadwell-6.2.4-25556",
+      "platform_version": "broadwell-7.0.1-42218",
       "user_config_json": "ds3617xs_user_config.json",
       "docker_base_image": "debian:8-slim",
       "compile_with": "toolkit_dev",
